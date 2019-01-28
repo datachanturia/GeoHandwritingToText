@@ -1,6 +1,5 @@
 
-from CNN.network import *
-from CNN.utils import *
+from tools import *
 
 from tqdm import tqdm
 import argparse

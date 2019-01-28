@@ -1,5 +1,6 @@
 
-from CNN.utils import *
+from tools import *
+
 from tqdm import tqdm
 from sklearn.preprocessing import LabelEncoder
 
